@@ -5,11 +5,15 @@ The object can be visualized in both Gazebo and RViz.
 It includes functionalities to move the object to random positions and control it via keyboard input.
 
 ## Demo
-In Rviz
-<img width="585" alt="스크린샷 2024-05-09 오후 3 54 42" src="https://github.com/mininiii/Ros2_moving_car/assets/96100666/94b040f3-aea2-4d96-b763-dfda96db6bfc">
+### In Rviz
 
-In Gazebo
-https://github.com/mininiii/Ros2_moving_car/assets/96100666/bccab431-d5e3-4870-8259-5288649802d3
+   <img width="585" alt="스크린샷 2024-05-09 오후 3 54 42" src="https://github.com/mininiii/Ros2_moving_car/assets/96100666/94b040f3-aea2-4d96-b763-dfda96db6bfc">
+
+
+### In Gazebo
+![화면-기록-2024-05-09-오후-3 53 44](https://github.com/mininiii/Ros2_moving_car/assets/96100666/b96b200b-3bf8-4b80-ad3f-34012b0cd451)
+
+The car will move in a random direction and speed for 15 seconds.
 
 ## Setup
 ros2, gazebo, rviz2 should be already installed.
