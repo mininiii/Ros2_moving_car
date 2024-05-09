@@ -31,7 +31,7 @@ ros2, gazebo, rviz2 should be already installed.
 3. Clone this repository into the `src` directory:
    ```
    cd example_ws/src
-   git clone https://github.com/mininiii/Ros2_moving_car
+   git clone https://github.com/mininiii/Ros2_moving_car.git
    ```
 
 ## Launch
