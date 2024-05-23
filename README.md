@@ -13,7 +13,7 @@ It includes functionalities to move the object to random positions and control i
 ### In Gazebo
 ![화면-기록-2024-05-09-오후-3 53 44](https://github.com/mininiii/Ros2_moving_car/assets/96100666/b96b200b-3bf8-4b80-ad3f-34012b0cd451)
 
-The car will move in a random direction and speed for 15 seconds.
+The car moves in a random direction and speed for 15 seconds.
 
 ## Setup
 ros2, gazebo, rviz2 should be already installed.
